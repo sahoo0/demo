@@ -21,7 +21,9 @@ public class DemoApplication {
 				.distinct()
 				.sorted()
 				.collect(Collectors.toList());
-
+		System.out.println("welcome to GlobalLogic");
+		System.out.println("welcome to GlobalLogic");
+		System.out.println("welcome to GlobalLogic");
 	}
 
 }
